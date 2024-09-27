@@ -3,7 +3,7 @@ project:
      - index.qmd
      - pubs.qmd
      - back_door_1.qmd
-     - cv.qmd
+
    type: website
    output-dir: docs
 
@@ -17,7 +17,7 @@ website:
       - href: index.qmd
         text: Home      
       - pubs.qmd
-      - cv.qmd
+
 
 
 format:
@@ -26,7 +26,7 @@ format:
     css: styles.css
     mainfont: 'EB Garamont'
     fontcolor: 'black'
-    fontsize: '21px'
+    fontsize: '18px'
     toc: true
     max-width: "80%"
     backgroundcolor: "#f2f2f2"
