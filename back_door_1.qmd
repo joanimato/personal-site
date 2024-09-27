@@ -1,0 +1,14 @@
+---
+title: The Back Door to the Surface Hydrated Electron
+author: 
+    - name: Joani Mato
+    - name: Soohaeng Yoo Willow
+    - name: Jasper C. Werhahn
+    - name: Sotiris Xantheas
+--- 
+
+First published in <https://doi.org/10.1021/acs.jpclett.3c01479>
+
+# Abstract
+
+We use a ${Mg}^+$ metal to extend the size regime of aqueous clusters to extrapolate to the bulk limit of the vertical detachment energy (VDE) of the solvated electron to >3,200, a value between 1 to over 2 orders of magnitude larger than the one previously measured experimentally or computed theoretically. We relate the VDE to the energy difference between the $Mg^+(H_2O)_n$ and $Mg^{2+}(H_2O)_n$ systems and the metal’s second ionization potential. The extrapolated bulk VDEs of the localized surface electron, which moves away from the metal as n increases, are 1.89 ± 0.01 eV for semiempirical (n ∼ 3,200; PM6-D3H4) and 1.73 ± 0.03 eV (n ∼ 150; HF) and 1.83 ± 0.02 eV (n ∼ 150; MP2) for ab initio, in excellent agreement with the 1.6–1.8 eV range of experimental results. The VDEs converge from above (larger values) to the bulk limit, in a manner that is qualitatively opposite from previous studies and experiments lacking a charged metal, a fact justifying the “back door” approach to the solvated electron.

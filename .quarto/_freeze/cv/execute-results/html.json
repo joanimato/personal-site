@@ -1,0 +1,12 @@
+{
+  "hash": "b298acb63a081e810427aeaf618c63a2",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: CV\n---\n\n```{html}\n<embed src=\"assets/cv.pdf\" width=\"500\" height=\"375\" \n type=\"application/pdf\">\n```\n\n",
+    "supporting": [
+      "cv_files\\figure-html"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

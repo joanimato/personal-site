@@ -1,0 +1,9 @@
+---
+title: CV
+---
+
+
+```{=html}
+<embed src="assets/cv.pdf" width= 90% height= 800px
+    type="application/pdf">
+```

@@ -1,0 +1,20 @@
+{
+  "about.qmd": {
+    "about.html": "39ac9e5b"
+  },
+  "index.qmd": {
+    "index.html": "40e2c44e"
+  },
+  "pubs.qmd": {
+    "pubs.html": "97d387e1"
+  },
+  "back_door_1.qmd": {
+    "back_door_1.html": "16d967cf"
+  },
+  "metals_mbe1.qmd": {
+    "metals_mbe1.html": "00718e7b"
+  },
+  "cv.qmd": {
+    "cv.html": "43df77e9"
+  }
+}

@@ -1,0 +1,41 @@
+---
+title: "Publications"
+---
+
+Click on the article titles to view the abstract. 
+
+# 2023 
+
+Zahariev F. et. al. The General Atomic and Molecular Electronic Structure System (GAMESS): Novel Methods on Novel Architectures, *J. Chem. Theory Comput.* 2023. <https://doi.org/10.1021/acs.jctc.3c00379>
+
+**Joani Mato**, Soohaeng Yoo Willow, Jasper C Werhahn, Sotiris S Xantheas. [The Back Door to the Surface Hydrated Electron.](back_door_1.qmd) *J. Phys. Chem. Lett.* 2023, 14, 36, 8221–8226. <https://doi.org/10.1021/acs.jpclett.3c01479>
+
+# 2022
+
+**Joani Mato**, D. Tzeli, S. Xantheas. [The many-body expansion for metals I: The alkaline earth metals Be, Mg, and Ca.](metals_mbe1.qmd) *J. Chem. Phys.* 2022, 157, 084313. <https://doi.org/10.1063/5.0094598>
+
+# 2021
+
+**Joani Mato**, Adam W. Duster, Emilie B. Guidez, and Hai Lin. Adaptive-Partitioning Multilayer Dynamics Simulations: 1. On-the-Fly Switch between Two Quantum Levels of Theory. *J. Chem. Theory Comput.* 2021, 17, 9, 5456–5465. <https://doi.org/10.1021/acs.jctc.1c00556>
+
+# 2020
+
+**Joani Mato**, David Poole, and Mark S. Gordon. Stability and Dissociation of Ethylenedione (OCCO). *J. Phys. Chem.* A 2020, 124, 40, 8209–8222. <https://doi.org/10.1021/acs.jpca.0c06107>
+
+Barca et. al. Recent developments in the general atomic and molecular electronic structure system. *J. Chem. Phys.* 2020, 152, 154102. <https://doi.org/10.1063/5.0005188>
+
+**Joani Mato** and Emilie B. Guidez. Accuracy of the PM6 and PM7 Methods on Bare and Thiolate-Protected Gold Nanoclusters. *J. Phys. Chem.* A 2020, 124, 13, 2601–2615. <https://doi.org/10.1021/acs.jpca.9b11474>
+
+**Joani Mato** and Mark S. Gordon. Analytic non-adiabatic couplings for the spin-flip ORMAS method. *Phys. Chem. Chem. Phys.*, 2020,22, 1475-1484. <https://doi.org/10.1039/C9CP05849D>
+
+# 2019 
+
+**Joani Mato** and Mark S. Gordon. Analytic Gradients for the Spin-Flip ORMAS-CI Method: Optimizing Minima, Saddle Points, and Conical Intersections. *J. Phys. Chem.* A 2019, 123, 6, 1260–1272. <https://doi.org/10.1021/acs.jpca.8b11569>
+
+# 2018 
+
+**Joani Mato** and  Mark S. Gordon. A general spin-complete spin-flip configuration interaction method. *Phys. Chem. Chem. Phys.* 2018, 20, 2615-2626. <https://doi.org/10.1039/C7CP06837A>
+
+# 2017 
+
+**Joani Mato**, Kristopher Keipert, and Mark S. Gordon. Excited state properties of 5-formylcytosine and 5-hydroxymethylcytosine. *Molecular Physics*, 2017, 115, 2721-2730. <https://doi.org/10.1080/00268976.2017.1311424>

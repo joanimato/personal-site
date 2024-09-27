@@ -1,0 +1,37 @@
+project:
+   render: 
+     - index.qmd
+     - pubs.qmd
+     - back_door_1.qmd
+     - cv.qmd
+   type: website
+   output-dir: docs
+
+
+website:
+  title: "Joani Mato"
+  twitter-card: true
+  navbar:
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home      
+      - pubs.qmd
+      - cv.qmd
+
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    mainfont: 'EB Garamont'
+    fontcolor: 'black'
+    fontsize: '21px'
+    toc: true
+    max-width: "80%"
+    backgroundcolor: "#f2f2f2"
+    link-external-icon: true
+    link-external-newwindow: true
+
+
+
