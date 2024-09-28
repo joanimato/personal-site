@@ -3,8 +3,8 @@ title: "Joani Mato"
 subtitle: "Computational Scientist"
 about: 
     template: trestles
-    image: img/Mato_Joani_reduced.png
-    image-width: 15em
+    image: img/portrait2.jpg
+    image-width: 10em
     
     links: 
         - icon: github
