@@ -22,11 +22,11 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: custom-minty.scss
     css: styles.css
     mainfont: 'EB Garamont'
     fontcolor: 'black'
-    fontsize: '18px'
+    fontsize: '21px'
     toc: true
     max-width: "80%"
     backgroundcolor: "#f2f2f2"

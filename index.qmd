@@ -21,11 +21,10 @@ toc: false
 
 I am a postdoctoral researcher in the chemical physics group at the Pacific Northwest National Laborotary. My work involves the development of electronic structure theory methods and the application of electronic structure on various applications of chemical and biological importance. 
 
-## Education
-
 PhD in Physical Chemistry | Iowa State University 2014 - 2019
 
 BS in Biochemistry | Kutztown University 2010-2014 
+
 
 ## Experience
 
@@ -42,7 +41,6 @@ BS in Biochemistry | Kutztown University 2010-2014
 *Topics*: excited states, spin-flip method development, gold clusters, DFT/TDDFT, software development in GAMESS. 
 
 ## Research Interests
-
 - Multi-reference electronic structure methods
 - Metal clusters and surfaces
 - High-performance computing
@@ -50,7 +48,6 @@ BS in Biochemistry | Kutztown University 2010-2014
 - Functional programming in scientific computing
 
 ## Hobbies
-
 - photography
 - science fiction
 - football (Forza Milan!)
