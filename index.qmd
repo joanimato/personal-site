@@ -3,7 +3,7 @@ title: "Joani Mato"
 subtitle: "Computational Scientist"
 about: 
     template: trestles
-    image: img/portrait2.jpg
+    image: img/portrait_3.JPG
     image-width: 10em
     
     links: 
@@ -19,7 +19,9 @@ toc: false
 
 ## Bio
 
-I am a postdoctoral researcher in the chemical physics group at the Pacific Northwest National Laborotary. My work involves the development of electronic structure theory methods and the application of electronic structure on various applications of chemical and biological importance. 
+I am a research programmer in the Molecular Modeling and [Drug Design lab](https://forlilab.org/) at The Scripps Research Institute (Forlilab). My work lives in the intersection of chemistry, physics, biology, and computer science, all of which contribute to the development of the [Autdock toolset](https://forlilab.org/code/) for molecular modeling in drug design. I'm especially focus on the small molecule portion of the pipeline. 
+
+In the past I have also worked on the development of new electronic structure methods for atoms and molecules.
 
 PhD in Physical Chemistry | Iowa State University 2014 - 2019
 
@@ -28,9 +30,13 @@ BS in Biochemistry | Kutztown University 2010-2014
 
 ## Experience
 
-**Pacific Northwest National Laboratory** [2021 - Present]
+**The Scripps Research Institute** [2024 - present]
 
-*Topics*: Solvated electron, excited states in squaraines, platinum clusters and surfaces, MBE for metals, machine learning
+*Topics*: HPC, small molecule conformer generation, data science in drug discovery, property prediction with ML, flexible docking, quantum chemistry in drug discovery
+
+**Pacific Northwest National Laboratory** [2021 - 2024]
+
+*Topics*: solvated electron, excited states in squaraines, platinum clusters and surfaces, MBE for metals, machine learning
 
 **University of Colorado, Denver** [2019-2021]
 

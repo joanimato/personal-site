@@ -11,6 +11,7 @@ project:
 website:
   title: "Joani Mato"
   twitter-card: true
+  favicon: img\favicon.png
   navbar:
     background: dark
     left:

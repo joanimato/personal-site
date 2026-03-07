@@ -1,8 +1,11 @@
 ---
 title: "Publications"
 ---
+# 2025
 
-Click on the article titles to view the abstract. 
+D. Santos-Martin. et. al. Meeko: Molecule Parametrization and Software Interoperability for Docking and Beyond, *J. Chem. Info. and Model.* 2025, <https://doi.org/10.1021/acs.jcim.5c02271>
+
+D. Tzeli, **J. Mato**, S. Xantheas. The Many-Body Expansion for Metals: II. Nonadditive Terms in Clusters Composed of Metals with ns1, ns2, and ns2p1 Configurations, *J. Phys. Chem. A* 2025, <https://doi.org/10.1021/acs.jpca.5c01066>
 
 # 2023 
 
